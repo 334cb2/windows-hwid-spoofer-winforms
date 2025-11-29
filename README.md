@@ -339,7 +339,7 @@ We welcome contributions! Here's how you can help:
 
 **Jacee** - Lead Developer & Architect
 
-**Discord:** `jacee`  
+**Discord:** `cswarriorlol`  
 **ID:** `981206640089002074`
 
 For technical questions, core functionality, and development inquiries
