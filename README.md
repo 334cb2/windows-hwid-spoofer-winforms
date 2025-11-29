@@ -4,6 +4,7 @@ A modern Windows Forms application built with C# and .NET Framework 4.8, featuri
 
 ## 📋 Table of Contents
 
+- [Screenshots](#screenshots)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -12,6 +13,18 @@ A modern Windows Forms application built with C# and .NET Framework 4.8, featuri
 - [Building the Project](#building-the-project)
 - [Usage](#usage)
 - [License](#license)
+
+## 📸 Screenshots
+
+### Form1 - Login Screen
+![Login Screen](images/form1.PNG)
+
+The login interface features a modern dark theme with animated background dots and license key authentication.
+
+### Form2 - Main Application Interface
+![Main Interface](images/form2.PNG)
+
+The main application window provides access to spoofing options, serial checker, and hardware management features.
 
 ## ✨ Features
 
