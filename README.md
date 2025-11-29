@@ -238,16 +238,22 @@ We welcome contributions! Here's how you can help:
 
 ### 💬 **Need Help? Have Questions?**
 
-**Discord:** `334cb2`
+**Main Developer - Jacee**
+- **Discord:** `jacee` (ID: 981206640089002074)
+- For technical questions, core functionality, and development inquiries
 
-**DM me on Discord for:**
+**Project Maintainer - 334cb2**
+- **Discord:** `334cb2`
+- For general support, bug reports, and feature requests
+
+**DM us on Discord for:**
 - 🐛 Bug reports
 - 💡 Feature requests
 - ❓ Questions about the project
 - 🤝 Collaboration opportunities
 - ⭐ General feedback
 
-**I'm always happy to help!** 😊
+**We're always happy to help!** 😊
 
 </div>
 
@@ -281,10 +287,31 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
+## 👥 **Developers**
+
+<div align="center">
+
+### 🎯 **Main Developer**
+
+**Jacee** - Lead Developer & Architect
+- **Discord:** `jacee` (ID: 981206640089002074)
+- Primary developer responsible for core functionality and architecture
+
+### 🤝 **Contributors**
+
+**334cb2** - Project Maintainer & UI/UX
+- **Discord:** `334cb2`
+- Repository maintainer and UI enhancements
+
+</div>
+
+---
+
 ## 🙏 **Acknowledgments**
 
 - **Guna.UI2** - For the amazing UI components
 - **Newtonsoft.Json** - For JSON serialization
+- **Jacee** - Main developer and architect of this project
 - **All Contributors** - Thanks to everyone who helps improve this project!
 
 ---
@@ -293,7 +320,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### ⭐ **If you found this project useful, please give it a star!** ⭐
 
-**Made with ❤️ by [334cb2](https://github.com/334cb2)**
+**Made with ❤️ by [Jacee](https://github.com) & [334cb2](https://github.com/334cb2)**
 
 [![GitHub followers](https://img.shields.io/github/followers/334cb2?label=Follow%20me&style=social)](https://github.com/334cb2)
 
