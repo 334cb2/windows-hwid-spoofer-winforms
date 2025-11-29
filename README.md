@@ -35,12 +35,12 @@
 <div align="center">
 
 ### **Form1 - Premium Login Interface**
-![Login Screen](images/form1.PNG)
+![Login Screen](images/form1.png)
 
 *Experience the sleek, modern login interface with animated particle effects*
 
 ### **Form2 - Advanced Control Panel**
-![Main Interface](images/form2.PNG)
+![Main Interface](images/form2.png)
 
 *Full-featured control panel with comprehensive spoofing options and serial checker*
 
