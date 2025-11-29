@@ -4,15 +4,6 @@
 
 ### ⚡ *The Most Advanced Hardware ID Spoofing Solution for Windows*
 
-```
-██████╗ ██╗   ██╗ ██████╗ ██╗  ██╗███████╗
-██╔══██╗██║   ██║██╔═══██╗██║ ██╔╝██╔════╝
-██████╔╝██║   ██║██║   ██║█████╔╝ █████╗  
-██╔══██╗██║   ██║██║   ██║██╔═██╗ ██╔══╝  
-██████╔╝╚██████╔╝╚██████╔╝██║  ██╗███████╗
-╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝
-```
-
 [![GitHub stars](https://img.shields.io/github/stars/334cb2/windows-hwid-spoofer-winforms?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=gold)](https://github.com/334cb2/windows-hwid-spoofer-winforms/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/334cb2/windows-hwid-spoofer-winforms?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=blue)](https://github.com/334cb2/windows-hwid-spoofer-winforms/network/members)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
